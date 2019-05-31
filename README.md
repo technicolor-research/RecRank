@@ -27,4 +27,6 @@ Calculates and visualizes the distance of recom algorithms
   ```bash
   python distCalc.py --folder_paths  ./graphs/ --manual
   ``` 
-
+## License 
+This project is licensed under the terms of BSD 3-clause Clear license.
+by downloading this program, you commit to comply with the license as stated in the LICENSE.md file.
